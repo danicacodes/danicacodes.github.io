@@ -250,11 +250,11 @@ p::first-letter {
 		width: 100%!important;
 		text-align: justify!important;
 	}
-
+/**
 	img {
 		max-width:330px!important;
 	}
-
+**/
 	.social-media span {
 		font-size: 0.8rem!important;
 	}	
@@ -279,13 +279,14 @@ p::first-letter {
 	transform: translate(-50%,-50%);
 }
 
+/**
 img {
 	display: block;
 	max-width:500px;
 	width: auto;
 	height: auto;
   } 
-
+**/
  .social-media {
     display: flex;
     flex-direction: row;
